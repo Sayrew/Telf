@@ -1,1 +1,2 @@
 # Telf
+Git clone
